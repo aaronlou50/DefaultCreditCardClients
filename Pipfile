@@ -10,6 +10,7 @@ tensorflow = "*"
 ipykernel = "*"
 jupyter = "*"
 xlrd = "*"
+seaborn = "*"
 
 [dev-packages]
 
