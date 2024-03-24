@@ -11,6 +11,7 @@ ipykernel = "*"
 jupyter = "*"
 xlrd = "*"
 seaborn = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
